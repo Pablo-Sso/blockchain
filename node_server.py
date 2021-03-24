@@ -7,7 +7,7 @@ import requests
 #VIVA EL BITCOIN!!
 
 #A+B=COCHE
-
+jdojasdocaoCOASJCOIOCSJ
 
 class Block:
     def __init(self, index, transactions, timestamp, previous_hash, nonce=0):
